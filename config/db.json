@@ -1,0 +1,16 @@
+{
+    "development": {
+        "username": "root",
+        "password": "6equj5",
+        "database": "apiexample",
+        "host": "localhost",
+        "dialect": "mysql",
+        "logging": true,
+        "pool": {
+            "max": 50,
+            "min": 0,
+            "acquire": 6000,
+            "idle": 10000
+          }
+    }
+}
